@@ -20,6 +20,7 @@ Education
 :    **Intermediate**; VYSHNAVI JUNIOR COLLEGE(TENALI)
 2012-2012
 :     **SSC**; SRI CHAITANYA PUBLIC SCHOOL(PEDAKURAPADU)
+
 SKILLS
 ----------
 -c
@@ -33,7 +34,7 @@ Certifications
 ----------------
 -successfully completed **python programming** in udemy
 -successfully completed **iot**
-* First item
+
 
 Personal Information
 ----------------------
